@@ -1,2 +1,7 @@
-# Projeto2
-Projeto 2
+# FlexiFit 💪🍀
+
+# Integrantes:
+- Lucca Giordano
+- Lucas Saraiva
+- Rafael Ferreira
+- Ruan Paulo
