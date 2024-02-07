@@ -25,6 +25,8 @@ O app é desenvolvido usando Android Studio, com a linguagem de programação Ja
 
 # Ideias possíveis
 
+## NÃO são promessas, apenas um brainstorm do grupo para incrementar a ideia central do app
+
 **Registro de alimentação**, a ideia tem suas complexidades que precisam ser estudadas, mas a ideia principal é integrar uma API que busca informações nutricionais de alimentos, e o usuário poderia registrar o que comeu e o app calcularia as calorias, proteínas, carboidratos, etc.
 
 **Aba de estudos**, a ideia do app é ser um assistente diário, uma das ideias que pensamos para integrar no app é um banco de questões de concursos, vestibulares, etc. Surgem alguns problemas, como a complexidade de se criar um banco de questões.
