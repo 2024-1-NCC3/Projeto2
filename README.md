@@ -13,7 +13,7 @@ Um aplicativo com o objetivo de monitoramento de rotina e saúde. Ou seja, te aj
 
 # Tecnologias
 
-O app é desenvolvido usando Android Studio, com a linguagem de programação Java.
+O app é desenvolvido usando Android Studio na versão Eletric Eel (2022.1.1 - 1/2023), com a linguagem de programação Java.
 
 # Funcionalidades
 
